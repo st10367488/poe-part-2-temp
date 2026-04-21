@@ -1,5 +1,6 @@
 ﻿using ContractMS.Data;
 using ContractMS.Models;
+using ContractMS.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -10,7 +11,13 @@ namespace ContractMS.Controllers
     public class ServiceRequestsController : Controller
     {
         private readonly AppDbContext _context;
-        public ServiceRequestsController(AppDbContext context) => _context = context;
+        private readonly CurrencyService _currencyService;
+        
+        public ServiceRequestsController(AppDbContext context, CurrencyService currencyService) 
+        {
+            _context = context;
+            _currencyService = currencyService;
+        }
 
         public async Task<IActionResult> Index()
             => View(await _context.ServiceRequests
@@ -58,6 +65,10 @@ namespace ContractMS.Controllers
                 ViewBag.Contracts = new SelectList(activeContracts, "Id", "Display", request.ContractId);
                 return View(request);
             }
+
+            // Calculate ZAR cost using currency service
+            var exchangeRate = await _currencyService.GetUsdToZarRateAsync();
+            request.CostZAR = _currencyService.ConvertUsdToZar(request.Cost, exchangeRate);
 
             _context.ServiceRequests.Add(request);
             await _context.SaveChangesAsync();

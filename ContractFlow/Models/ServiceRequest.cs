@@ -21,6 +21,10 @@ namespace ContractMS.Models
         public decimal Cost { get; set; }
 
         [Required]
+        [DataType(DataType.Currency)]
+        public decimal CostZAR { get; set; }
+
+        [Required]
         public ServiceRequestStatus Status { get; set; } = ServiceRequestStatus.Pending;
     }
 }

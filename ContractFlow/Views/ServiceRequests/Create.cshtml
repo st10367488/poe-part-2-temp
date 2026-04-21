@@ -32,11 +32,14 @@
                 </div>
 
                 <div class="mb-3">
-                    <label asp-for="Cost" class="form-label">Cost</label>
+                    <label asp-for="Cost" class="form-label">Cost (USD)</label>
                     <div class="input-group">
                         <span class="input-group-text">$</span>
                         <input asp-for="Cost" class="form-control" type="number" step="0.01" min="0" 
-                               placeholder="0.00" />
+                               placeholder="0.00" id="costInput" />
+                    </div>
+                    <div class="form-text">
+                        <small class="text-muted">ZAR Equivalent: <span id="zarEquivalent">R0.00</span></small>
                     </div>
                     <span asp-validation-for="Cost" class="text-danger"></span>
                 </div>
@@ -65,4 +68,21 @@
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script>
+        document.getElementById('costInput').addEventListener('input', async function() {
+            const usdAmount = parseFloat(this.value) || 0;
+            if (usdAmount > 0) {
+                try {
+                    // For demo purposes, using a fixed rate. In production, this would call an API
+                    const exchangeRate = 18.50; // This would come from CurrencyService
+                    const zarAmount = (usdAmount * exchangeRate).toFixed(2);
+                    document.getElementById('zarEquivalent').textContent = 'R' + zarAmount;
+                } catch (error) {
+                    document.getElementById('zarEquivalent').textContent = 'Error calculating conversion';
+                }
+            } else {
+                document.getElementById('zarEquivalent').textContent = 'R0.00';
+            }
+        });
+    </script>
 }
