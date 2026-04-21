@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maseo Junior\\Desktop\\poe-part-2-temp\\ContractFlow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8664C7BE-8F06-405B-BEBA-3A9F3C3182AB}|ContractFlow.csproj|c:\\users\\maseo junior\\desktop\\poe-part-2-temp\\contractflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8664C7BE-8F06-405B-BEBA-3A9F3C3182AB}|ContractFlow.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8664C7BE-8F06-405B-BEBA-3A9F3C3182AB}|ContractFlow.csproj|c:\\users\\maseo junior\\desktop\\poe-part-2-temp\\contractflow\\contractflow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8664C7BE-8F06-405B-BEBA-3A9F3C3182AB}|ContractFlow.csproj|solutionrelative:contractflow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8664C7BE-8F06-405B-BEBA-3A9F3C3182AB}|ContractFlow.csproj|c:\\users\\maseo junior\\desktop\\poe-part-2-temp\\contractflow\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8664C7BE-8F06-405B-BEBA-3A9F3C3182AB}|ContractFlow.csproj|solutionrelative:controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8664C7BE-8F06-405B-BEBA-3A9F3C3182AB}|ContractFlow.csproj|c:\\users\\maseo junior\\desktop\\poe-part-2-temp\\contractflow\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8664C7BE-8F06-405B-BEBA-3A9F3C3182AB}|ContractFlow.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8664C7BE-8F06-405B-BEBA-3A9F3C3182AB}|ContractFlow.csproj|c:\\users\\maseo junior\\desktop\\poe-part-2-temp\\contractflow\\controllers\\servicerequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8664C7BE-8F06-405B-BEBA-3A9F3C3182AB}|ContractFlow.csproj|solutionrelative:controllers\\servicerequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8664C7BE-8F06-405B-BEBA-3A9F3C3182AB}|ContractFlow.csproj|c:\\users\\maseo junior\\desktop\\poe-part-2-temp\\contractflow\\controllers\\contractscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8664C7BE-8F06-405B-BEBA-3A9F3C3182AB}|ContractFlow.csproj|solutionrelative:controllers\\contractscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8664C7BE-8F06-405B-BEBA-3A9F3C3182AB}|ContractFlow.csproj|c:\\users\\maseo junior\\desktop\\poe-part-2-temp\\contractflow\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8664C7BE-8F06-405B-BEBA-3A9F3C3182AB}|ContractFlow.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8664C7BE-8F06-405B-BEBA-3A9F3C3182AB}|ContractFlow.csproj|c:\\users\\maseo junior\\desktop\\poe-part-2-temp\\contractflow\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8664C7BE-8F06-405B-BEBA-3A9F3C3182AB}|ContractFlow.csproj|solutionrelative:models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8664C7BE-8F06-405B-BEBA-3A9F3C3182AB}|ContractFlow.csproj|c:\\users\\maseo junior\\desktop\\poe-part-2-temp\\contractflow\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8664C7BE-8F06-405B-BEBA-3A9F3C3182AB}|ContractFlow.csproj|solutionrelative:models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8664C7BE-8F06-405B-BEBA-3A9F3C3182AB}|ContractFlow.csproj|c:\\users\\maseo junior\\desktop\\poe-part-2-temp\\contractflow\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8664C7BE-8F06-405B-BEBA-3A9F3C3182AB}|ContractFlow.csproj|solutionrelative:models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8664C7BE-8F06-405B-BEBA-3A9F3C3182AB}|ContractFlow.csproj|c:\\users\\maseo junior\\desktop\\poe-part-2-temp\\contractflow\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8664C7BE-8F06-405B-BEBA-3A9F3C3182AB}|ContractFlow.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8664C7BE-8F06-405B-BEBA-3A9F3C3182AB}|ContractFlow.csproj|c:\\users\\maseo junior\\desktop\\poe-part-2-temp\\contractflow\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8664C7BE-8F06-405B-BEBA-3A9F3C3182AB}|ContractFlow.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContractFlow.csproj",
+              "DocumentMoniker": "C:\\Users\\Maseo Junior\\Desktop\\poe-part-2-temp\\ContractFlow\\ContractFlow.csproj",
+              "RelativeDocumentMoniker": "ContractFlow.csproj",
+              "ToolTip": "C:\\Users\\Maseo Junior\\Desktop\\poe-part-2-temp\\ContractFlow\\ContractFlow.csproj",
+              "RelativeToolTip": "ContractFlow.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-21T16:28:17.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\Maseo Junior\\Desktop\\poe-part-2-temp\\ContractFlow\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\Maseo Junior\\Desktop\\poe-part-2-temp\\ContractFlow\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "Controllers\\ClientsController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwA4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:10:26.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Maseo Junior\\Desktop\\poe-part-2-temp\\ContractFlow\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Maseo Junior\\Desktop\\poe-part-2-temp\\ContractFlow\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:17:56.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maseo Junior\\Desktop\\poe-part-2-temp\\ContractFlow\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Maseo Junior\\Desktop\\poe-part-2-temp\\ContractFlow\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:15:08.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceRequestsController.cs",
+              "DocumentMoniker": "C:\\Users\\Maseo Junior\\Desktop\\poe-part-2-temp\\ContractFlow\\Controllers\\ServiceRequestsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServiceRequestsController.cs",
+              "ToolTip": "C:\\Users\\Maseo Junior\\Desktop\\poe-part-2-temp\\ContractFlow\\Controllers\\ServiceRequestsController.cs",
+              "RelativeToolTip": "Controllers\\ServiceRequestsController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:12:18.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContractsController.cs",
+              "DocumentMoniker": "C:\\Users\\Maseo Junior\\Desktop\\poe-part-2-temp\\ContractFlow\\Controllers\\ContractsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContractsController.cs",
+              "ToolTip": "C:\\Users\\Maseo Junior\\Desktop\\poe-part-2-temp\\ContractFlow\\Controllers\\ContractsController.cs",
+              "RelativeToolTip": "Controllers\\ContractsController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAwJUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:11:31.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Maseo Junior\\Desktop\\poe-part-2-temp\\ContractFlow\\Models\\ServiceRequest.cs",
+              "RelativeDocumentMoniker": "Models\\ServiceRequest.cs",
+              "ToolTip": "C:\\Users\\Maseo Junior\\Desktop\\poe-part-2-temp\\ContractFlow\\Models\\ServiceRequest.cs",
+              "RelativeToolTip": "Models\\ServiceRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:08:15.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Maseo Junior\\Desktop\\poe-part-2-temp\\ContractFlow\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Maseo Junior\\Desktop\\poe-part-2-temp\\ContractFlow\\Models\\Client.cs",
+              "RelativeToolTip": "Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:07:38.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Contract.cs",
+              "DocumentMoniker": "C:\\Users\\Maseo Junior\\Desktop\\poe-part-2-temp\\ContractFlow\\Models\\Contract.cs",
+              "RelativeDocumentMoniker": "Models\\Contract.cs",
+              "ToolTip": "C:\\Users\\Maseo Junior\\Desktop\\poe-part-2-temp\\ContractFlow\\Models\\Contract.cs",
+              "RelativeToolTip": "Models\\Contract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:06:30.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maseo Junior\\Desktop\\poe-part-2-temp\\ContractFlow\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Maseo Junior\\Desktop\\poe-part-2-temp\\ContractFlow\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T15:02:23.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maseo Junior\\Desktop\\poe-part-2-temp\\ContractFlow\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Maseo Junior\\Desktop\\poe-part-2-temp\\ContractFlow\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T14:51:25.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Maseo Junior\\Desktop\\poe-part-2-temp\\ContractFlow\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Maseo Junior\\Desktop\\poe-part-2-temp\\ContractFlow\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T14:47:31.35Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
