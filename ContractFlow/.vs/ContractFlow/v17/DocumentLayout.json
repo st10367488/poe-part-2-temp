@@ -74,8 +74,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-21T20:43:39.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T20:43:39.62Z"
             },
             {
               "$type": "Document",
@@ -97,7 +96,7 @@
               "RelativeDocumentMoniker": "Controllers\\ClientsController.cs",
               "ToolTip": "C:\\Users\\Maseo Junior\\Desktop\\poe-part-2-temp\\ContractFlow\\Controllers\\ClientsController.cs",
               "RelativeToolTip": "Controllers\\ClientsController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAqwDAAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwC4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-21T15:10:26.384Z",
               "EditorCaption": ""

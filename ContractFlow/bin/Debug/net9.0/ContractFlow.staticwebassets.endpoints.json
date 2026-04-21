@@ -18859,6 +18859,88 @@
       ]
     },
     {
+      "Route": "uploads/agreements/2fd76084-33e0-4785-97dd-37f86887b52b_Banking details.j2szdb4bqo.pdf",
+      "AssetFile": "uploads/agreements/2fd76084-33e0-4785-97dd-37f86887b52b_Banking details.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67569"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"27H+36BwZ0FH5Ch6m2ChE7tJQR75IPmwPfk1kwkKYtE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Apr 2026 21:19:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j2szdb4bqo"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-27H+36BwZ0FH5Ch6m2ChE7tJQR75IPmwPfk1kwkKYtE="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/agreements/2fd76084-33e0-4785-97dd-37f86887b52b_Banking details.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/agreements/2fd76084-33e0-4785-97dd-37f86887b52b_Banking details.pdf",
+      "AssetFile": "uploads/agreements/2fd76084-33e0-4785-97dd-37f86887b52b_Banking details.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67569"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"27H+36BwZ0FH5Ch6m2ChE7tJQR75IPmwPfk1kwkKYtE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Apr 2026 21:19:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-27H+36BwZ0FH5Ch6m2ChE7tJQR75IPmwPfk1kwkKYtE="
+        }
+      ]
+    },
+    {
       "Route": "uploads/agreements/71450df5-2d7f-4a2a-87d8-c7d5f2cd629f_Request-Proforma-Invoice2026-01-150929.aioz9u6t5d.pdf",
       "AssetFile": "uploads/agreements/71450df5-2d7f-4a2a-87d8-c7d5f2cd629f_Request-Proforma-Invoice2026-01-150929.pdf",
       "Selectors": [],
@@ -18937,6 +19019,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-0uePECVjJ0R5jmxYIGQtCIaXhjC6u94N6JlwT129Eio="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/agreements/99299517-c0db-4664-a9cb-9b388cd289f8_Booking Statement.3vwwyv8j8j.pdf",
+      "AssetFile": "uploads/agreements/99299517-c0db-4664-a9cb-9b388cd289f8_Booking Statement.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181036"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X+yTsdTn5ZEx3bkuNCiwTtF5lnryjmeER9OusByqJUY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Apr 2026 21:18:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3vwwyv8j8j"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X+yTsdTn5ZEx3bkuNCiwTtF5lnryjmeER9OusByqJUY="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/agreements/99299517-c0db-4664-a9cb-9b388cd289f8_Booking Statement.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/agreements/99299517-c0db-4664-a9cb-9b388cd289f8_Booking Statement.pdf",
+      "AssetFile": "uploads/agreements/99299517-c0db-4664-a9cb-9b388cd289f8_Booking Statement.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181036"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X+yTsdTn5ZEx3bkuNCiwTtF5lnryjmeER9OusByqJUY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Apr 2026 21:18:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X+yTsdTn5ZEx3bkuNCiwTtF5lnryjmeER9OusByqJUY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/agreements/ec902128-37d5-4001-8b40-486ad0cf822b_Emeris Letter of Intent Maseo Junior Mandiwana.5chnl7acb8.pdf",
+      "AssetFile": "uploads/agreements/ec902128-37d5-4001-8b40-486ad0cf822b_Emeris Letter of Intent Maseo Junior Mandiwana.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "500441"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e/edXMjXTxLm3PNxLQClOCTUb+JKD0e2IkxQWVDGYjU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Apr 2026 21:14:17 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5chnl7acb8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e/edXMjXTxLm3PNxLQClOCTUb+JKD0e2IkxQWVDGYjU="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/agreements/ec902128-37d5-4001-8b40-486ad0cf822b_Emeris Letter of Intent Maseo Junior Mandiwana.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/agreements/ec902128-37d5-4001-8b40-486ad0cf822b_Emeris Letter of Intent Maseo Junior Mandiwana.pdf",
+      "AssetFile": "uploads/agreements/ec902128-37d5-4001-8b40-486ad0cf822b_Emeris Letter of Intent Maseo Junior Mandiwana.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "500441"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e/edXMjXTxLm3PNxLQClOCTUb+JKD0e2IkxQWVDGYjU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Apr 2026 21:14:17 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e/edXMjXTxLm3PNxLQClOCTUb+JKD0e2IkxQWVDGYjU="
         }
       ]
     }

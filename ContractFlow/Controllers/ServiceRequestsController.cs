@@ -1,4 +1,4 @@
-﻿using ContractMS.Data;
+using ContractMS.Data;
 using ContractMS.Models;
 using ContractMS.Services;
 using Microsoft.AspNetCore.Mvc;
@@ -71,6 +71,60 @@ namespace ContractMS.Controllers
             request.CostZAR = _currencyService.ConvertUsdToZar(request.Cost, exchangeRate);
 
             _context.ServiceRequests.Add(request);
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
+        }
+        [HttpGet]
+        public async Task<IActionResult> Edit(int id)
+        {
+            var request = await _context.ServiceRequests.FindAsync(id);
+            if (request == null) return NotFound();
+
+            var activeContracts = _context.Contracts
+                .Include(c => c.Client)
+                .Where(c => c.Status == ContractStatus.Active)
+                .Select(c => new { c.Id, Display = $"{c.Client!.Name} — {c.ServiceLevel}" })
+                .ToList();
+
+            ViewBag.Contracts = new SelectList(activeContracts, "Id", "Display", request.ContractId);
+            return View(request);
+        }
+
+        [HttpPost, ValidateAntiForgeryToken]
+        public async Task<IActionResult> Edit(int id, ServiceRequest request)
+        {
+            if (id != request.Id) return BadRequest();
+
+            // ── Workflow Logic: block update if contract is Expired or OnHold ──
+            var contract = await _context.Contracts.FindAsync(request.ContractId);
+            if (contract == null)
+            {
+                ModelState.AddModelError("ContractId", "Contract not found.");
+            }
+            else if (contract.Status == ContractStatus.Expired ||
+                     contract.Status == ContractStatus.OnHold)
+            {
+                ModelState.AddModelError("ContractId",
+                    $"Cannot update a Service Request for a contract with status '{contract.Status}'. " +
+                    "Only Active contracts are allowed.");
+            }
+
+            if (!ModelState.IsValid)
+            {
+                var activeContracts = _context.Contracts
+                    .Include(c => c.Client)
+                    .Where(c => c.Status == ContractStatus.Active)
+                    .Select(c => new { c.Id, Display = $"{c.Client!.Name} — {c.ServiceLevel}" })
+                    .ToList();
+                ViewBag.Contracts = new SelectList(activeContracts, "Id", "Display", request.ContractId);
+                return View(request);
+            }
+
+            // Calculate ZAR cost using currency service
+            var exchangeRate = await _currencyService.GetUsdToZarRateAsync();
+            request.CostZAR = _currencyService.ConvertUsdToZar(request.Cost, exchangeRate);
+
+            _context.Update(request);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }

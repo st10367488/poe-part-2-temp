@@ -1152,6 +1152,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\LICENSE.txt'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\agreements\2fd76084-33e0-4785-97dd-37f86887b52b_Banking details.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ContractFlow</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ContractFlow</BasePath>
+      <RelativePath>uploads/agreements/2fd76084-33e0-4785-97dd-37f86887b52b_Banking details.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>j2szdb4bqo</Fingerprint>
+      <Integrity>27H+36BwZ0FH5Ch6m2ChE7tJQR75IPmwPfk1kwkKYtE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\agreements\2fd76084-33e0-4785-97dd-37f86887b52b_Banking details.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\agreements\71450df5-2d7f-4a2a-87d8-c7d5f2cd629f_Request-Proforma-Invoice2026-01-150929.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>ContractFlow</SourceId>
@@ -1169,6 +1187,42 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\agreements\71450df5-2d7f-4a2a-87d8-c7d5f2cd629f_Request-Proforma-Invoice2026-01-150929.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\agreements\99299517-c0db-4664-a9cb-9b388cd289f8_Booking Statement.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ContractFlow</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ContractFlow</BasePath>
+      <RelativePath>uploads/agreements/99299517-c0db-4664-a9cb-9b388cd289f8_Booking Statement.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>3vwwyv8j8j</Fingerprint>
+      <Integrity>X+yTsdTn5ZEx3bkuNCiwTtF5lnryjmeER9OusByqJUY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\agreements\99299517-c0db-4664-a9cb-9b388cd289f8_Booking Statement.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\agreements\ec902128-37d5-4001-8b40-486ad0cf822b_Emeris Letter of Intent Maseo Junior Mandiwana.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ContractFlow</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ContractFlow</BasePath>
+      <RelativePath>uploads/agreements/ec902128-37d5-4001-8b40-486ad0cf822b_Emeris Letter of Intent Maseo Junior Mandiwana.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>5chnl7acb8</Fingerprint>
+      <Integrity>e/edXMjXTxLm3PNxLQClOCTUb+JKD0e2IkxQWVDGYjU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\agreements\ec902128-37d5-4001-8b40-486ad0cf822b_Emeris Letter of Intent Maseo Junior Mandiwana.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

@@ -257,8 +257,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
+      "Id": "C:\\Users\\Maseo Junior\\Desktop\\poe-part-2-temp\\ContractFlow\\wwwroot\\uploads\\agreements\\2fd76084-33e0-4785-97dd-37f86887b52b_Banking details.pdf",
+      "PackagePath": "staticwebassets\\uploads\\agreements\\2fd76084-33e0-4785-97dd-37f86887b52b_Banking details.pdf"
+    },
+    {
       "Id": "C:\\Users\\Maseo Junior\\Desktop\\poe-part-2-temp\\ContractFlow\\wwwroot\\uploads\\agreements\\71450df5-2d7f-4a2a-87d8-c7d5f2cd629f_Request-Proforma-Invoice2026-01-150929.pdf",
       "PackagePath": "staticwebassets\\uploads\\agreements\\71450df5-2d7f-4a2a-87d8-c7d5f2cd629f_Request-Proforma-Invoice2026-01-150929.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Maseo Junior\\Desktop\\poe-part-2-temp\\ContractFlow\\wwwroot\\uploads\\agreements\\99299517-c0db-4664-a9cb-9b388cd289f8_Booking Statement.pdf",
+      "PackagePath": "staticwebassets\\uploads\\agreements\\99299517-c0db-4664-a9cb-9b388cd289f8_Booking Statement.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Maseo Junior\\Desktop\\poe-part-2-temp\\ContractFlow\\wwwroot\\uploads\\agreements\\ec902128-37d5-4001-8b40-486ad0cf822b_Emeris Letter of Intent Maseo Junior Mandiwana.pdf",
+      "PackagePath": "staticwebassets\\uploads\\agreements\\ec902128-37d5-4001-8b40-486ad0cf822b_Emeris Letter of Intent Maseo Junior Mandiwana.pdf"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ContractFlow.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

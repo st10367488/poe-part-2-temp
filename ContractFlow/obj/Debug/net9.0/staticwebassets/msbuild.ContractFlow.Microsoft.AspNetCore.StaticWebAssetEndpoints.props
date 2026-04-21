@@ -768,6 +768,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1117"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 21 Apr 2026 14:47:09 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ContractFlow/uploads/agreements/2fd76084-33e0-4785-97dd-37f86887b52b_Banking details.j2szdb4bqo.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\agreements\2fd76084-33e0-4785-97dd-37f86887b52b_Banking details.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"j2szdb4bqo"},{"Name":"integrity","Value":"sha256-27H\u002B36BwZ0FH5Ch6m2ChE7tJQR75IPmwPfk1kwkKYtE="},{"Name":"label","Value":"_content/ContractFlow/uploads/agreements/2fd76084-33e0-4785-97dd-37f86887b52b_Banking details.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"67569"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u002227H\u002B36BwZ0FH5Ch6m2ChE7tJQR75IPmwPfk1kwkKYtE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 21 Apr 2026 21:19:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ContractFlow/uploads/agreements/2fd76084-33e0-4785-97dd-37f86887b52b_Banking details.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\agreements\2fd76084-33e0-4785-97dd-37f86887b52b_Banking details.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-27H\u002B36BwZ0FH5Ch6m2ChE7tJQR75IPmwPfk1kwkKYtE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"67569"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u002227H\u002B36BwZ0FH5Ch6m2ChE7tJQR75IPmwPfk1kwkKYtE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 21 Apr 2026 21:19:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ContractFlow/uploads/agreements/71450df5-2d7f-4a2a-87d8-c7d5f2cd629f_Request-Proforma-Invoice2026-01-150929.aioz9u6t5d.pdf">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\agreements\71450df5-2d7f-4a2a-87d8-c7d5f2cd629f_Request-Proforma-Invoice2026-01-150929.pdf'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -779,6 +791,30 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0uePECVjJ0R5jmxYIGQtCIaXhjC6u94N6JlwT129Eio="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"25493"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u00220uePECVjJ0R5jmxYIGQtCIaXhjC6u94N6JlwT129Eio=\u0022"},{"Name":"Last-Modified","Value":"Tue, 21 Apr 2026 20:26:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ContractFlow/uploads/agreements/99299517-c0db-4664-a9cb-9b388cd289f8_Booking Statement.3vwwyv8j8j.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\agreements\99299517-c0db-4664-a9cb-9b388cd289f8_Booking Statement.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3vwwyv8j8j"},{"Name":"integrity","Value":"sha256-X\u002ByTsdTn5ZEx3bkuNCiwTtF5lnryjmeER9OusByqJUY="},{"Name":"label","Value":"_content/ContractFlow/uploads/agreements/99299517-c0db-4664-a9cb-9b388cd289f8_Booking Statement.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"181036"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022X\u002ByTsdTn5ZEx3bkuNCiwTtF5lnryjmeER9OusByqJUY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 21 Apr 2026 21:18:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ContractFlow/uploads/agreements/99299517-c0db-4664-a9cb-9b388cd289f8_Booking Statement.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\agreements\99299517-c0db-4664-a9cb-9b388cd289f8_Booking Statement.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-X\u002ByTsdTn5ZEx3bkuNCiwTtF5lnryjmeER9OusByqJUY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"181036"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022X\u002ByTsdTn5ZEx3bkuNCiwTtF5lnryjmeER9OusByqJUY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 21 Apr 2026 21:18:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ContractFlow/uploads/agreements/ec902128-37d5-4001-8b40-486ad0cf822b_Emeris Letter of Intent Maseo Junior Mandiwana.5chnl7acb8.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\agreements\ec902128-37d5-4001-8b40-486ad0cf822b_Emeris Letter of Intent Maseo Junior Mandiwana.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5chnl7acb8"},{"Name":"integrity","Value":"sha256-e/edXMjXTxLm3PNxLQClOCTUb\u002BJKD0e2IkxQWVDGYjU="},{"Name":"label","Value":"_content/ContractFlow/uploads/agreements/ec902128-37d5-4001-8b40-486ad0cf822b_Emeris Letter of Intent Maseo Junior Mandiwana.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"500441"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022e/edXMjXTxLm3PNxLQClOCTUb\u002BJKD0e2IkxQWVDGYjU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 21 Apr 2026 21:14:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ContractFlow/uploads/agreements/ec902128-37d5-4001-8b40-486ad0cf822b_Emeris Letter of Intent Maseo Junior Mandiwana.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\agreements\ec902128-37d5-4001-8b40-486ad0cf822b_Emeris Letter of Intent Maseo Junior Mandiwana.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-e/edXMjXTxLm3PNxLQClOCTUb\u002BJKD0e2IkxQWVDGYjU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"500441"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022e/edXMjXTxLm3PNxLQClOCTUb\u002BJKD0e2IkxQWVDGYjU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 21 Apr 2026 21:14:17 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>
