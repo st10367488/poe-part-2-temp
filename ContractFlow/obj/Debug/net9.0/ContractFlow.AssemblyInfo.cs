@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContractFlow")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+291accae7f56f71a85d4c590e68f1df06783e734")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa0376eda2e6e27d97169711ac39244c8ebbe8a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContractFlow")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContractFlow")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

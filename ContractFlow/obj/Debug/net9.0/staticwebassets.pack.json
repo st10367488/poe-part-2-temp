@@ -257,6 +257,10 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
+      "Id": "C:\\Users\\Maseo Junior\\Desktop\\poe-part-2-temp\\ContractFlow\\wwwroot\\uploads\\agreements\\71450df5-2d7f-4a2a-87d8-c7d5f2cd629f_Request-Proforma-Invoice2026-01-150929.pdf",
+      "PackagePath": "staticwebassets\\uploads\\agreements\\71450df5-2d7f-4a2a-87d8-c7d5f2cd629f_Request-Proforma-Invoice2026-01-150929.pdf"
+    },
+    {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ContractFlow.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },

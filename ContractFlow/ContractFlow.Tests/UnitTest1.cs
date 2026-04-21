@@ -1,4 +1,6 @@
-﻿namespace ContractFlow.Tests;
+using Xunit;
+
+namespace ContractFlow.Tests;
 
 public class UnitTest1
 {

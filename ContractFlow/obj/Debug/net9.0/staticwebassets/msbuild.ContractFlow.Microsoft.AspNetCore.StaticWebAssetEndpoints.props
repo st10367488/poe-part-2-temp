@@ -768,5 +768,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1117"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 21 Apr 2026 14:47:09 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ContractFlow/uploads/agreements/71450df5-2d7f-4a2a-87d8-c7d5f2cd629f_Request-Proforma-Invoice2026-01-150929.aioz9u6t5d.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\agreements\71450df5-2d7f-4a2a-87d8-c7d5f2cd629f_Request-Proforma-Invoice2026-01-150929.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"aioz9u6t5d"},{"Name":"integrity","Value":"sha256-0uePECVjJ0R5jmxYIGQtCIaXhjC6u94N6JlwT129Eio="},{"Name":"label","Value":"_content/ContractFlow/uploads/agreements/71450df5-2d7f-4a2a-87d8-c7d5f2cd629f_Request-Proforma-Invoice2026-01-150929.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"25493"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u00220uePECVjJ0R5jmxYIGQtCIaXhjC6u94N6JlwT129Eio=\u0022"},{"Name":"Last-Modified","Value":"Tue, 21 Apr 2026 20:26:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ContractFlow/uploads/agreements/71450df5-2d7f-4a2a-87d8-c7d5f2cd629f_Request-Proforma-Invoice2026-01-150929.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\agreements\71450df5-2d7f-4a2a-87d8-c7d5f2cd629f_Request-Proforma-Invoice2026-01-150929.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0uePECVjJ0R5jmxYIGQtCIaXhjC6u94N6JlwT129Eio="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"25493"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u00220uePECVjJ0R5jmxYIGQtCIaXhjC6u94N6JlwT129Eio=\u0022"},{"Name":"Last-Modified","Value":"Tue, 21 Apr 2026 20:26:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

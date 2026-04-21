@@ -18857,6 +18857,88 @@
           "Value": "lib/jquery/dist/jquery.slim.min.js.gz"
         }
       ]
+    },
+    {
+      "Route": "uploads/agreements/71450df5-2d7f-4a2a-87d8-c7d5f2cd629f_Request-Proforma-Invoice2026-01-150929.aioz9u6t5d.pdf",
+      "AssetFile": "uploads/agreements/71450df5-2d7f-4a2a-87d8-c7d5f2cd629f_Request-Proforma-Invoice2026-01-150929.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25493"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0uePECVjJ0R5jmxYIGQtCIaXhjC6u94N6JlwT129Eio=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Apr 2026 20:26:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aioz9u6t5d"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0uePECVjJ0R5jmxYIGQtCIaXhjC6u94N6JlwT129Eio="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/agreements/71450df5-2d7f-4a2a-87d8-c7d5f2cd629f_Request-Proforma-Invoice2026-01-150929.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/agreements/71450df5-2d7f-4a2a-87d8-c7d5f2cd629f_Request-Proforma-Invoice2026-01-150929.pdf",
+      "AssetFile": "uploads/agreements/71450df5-2d7f-4a2a-87d8-c7d5f2cd629f_Request-Proforma-Invoice2026-01-150929.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25493"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0uePECVjJ0R5jmxYIGQtCIaXhjC6u94N6JlwT129Eio=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Apr 2026 20:26:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0uePECVjJ0R5jmxYIGQtCIaXhjC6u94N6JlwT129Eio="
+        }
+      ]
     }
   ]
 }
