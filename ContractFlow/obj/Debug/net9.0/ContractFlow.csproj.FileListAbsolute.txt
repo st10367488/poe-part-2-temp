@@ -219,3 +219,4 @@ C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\Cont
 C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\ContractFlow.pdb
 C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\obj\Debug\net9.0\ContractFlow.genruntimeconfig.cache
 C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\obj\Debug\net9.0\ref\ContractFlow.dll
+C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

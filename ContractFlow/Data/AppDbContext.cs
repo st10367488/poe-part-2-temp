@@ -1,4 +1,4 @@
-﻿using ContractMS.Models;
+using ContractMS.Models;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Reflection.Emit;
@@ -27,7 +27,7 @@ namespace ContractMS.Data
                 .HasOne(sr => sr.Contract)
                 .WithMany(c => c.ServiceRequests)
                 .HasForeignKey(sr => sr.ContractId)
-                .OnDelete(DeleteBehavior.Restrict);
+                .OnDelete(DeleteBehavior.Cascade);
 
             modelBuilder.Entity<Contract>()
                 .Property(c => c.Status)

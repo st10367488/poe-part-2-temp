@@ -34,8 +34,10 @@
                         <td>
                             <div class="btn-group" role="group">
                                 <a asp-action="Edit" asp-route-id="@client.Id" class="btn btn-sm btn-outline-primary">Edit</a>
-                                <a asp-action="Delete" asp-route-id="@client.Id" class="btn btn-sm btn-outline-danger"
-                                   onclick="return confirm('Are you sure you want to delete this client?')">Delete</a>
+                                <form asp-action="Delete" asp-route-id="@client.Id" method="post" style="display:inline;">
+                                    <button type="submit" class="btn btn-sm btn-outline-danger"
+                                            onclick="return confirm('Are you sure you want to delete this client?')">Delete</button>
+                                </form>
                             </div>
                         </td>
                     </tr>
