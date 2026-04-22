@@ -2,6 +2,12 @@ C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\Cont
 C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\ContractFlow.dll
 C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\appsettings.Development.json
 C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\appsettings.json
 C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\ContractFlow.staticwebassets.runtime.json
@@ -18,11 +24,8 @@ C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\Micr
 C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
 C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
 C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
-C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\Microsoft.Identity.Client.dll
 C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
 C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
 C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
@@ -40,7 +43,6 @@ C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\Syst
 C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\System.Composition.Hosting.dll
 C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\System.Composition.Runtime.dll
 C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\System.Composition.TypedParts.dll
-C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
 C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\System.Drawing.Common.dll
 C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\System.Memory.Data.dll
@@ -114,10 +116,8 @@ C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\tr\M
 C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
@@ -219,4 +219,3 @@ C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\Cont
 C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\bin\Debug\net9.0\ContractFlow.pdb
 C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\obj\Debug\net9.0\ContractFlow.genruntimeconfig.cache
 C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\obj\Debug\net9.0\ref\ContractFlow.dll
-C:\Users\Maseo Junior\Desktop\poe-part-2-temp\ContractFlow\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

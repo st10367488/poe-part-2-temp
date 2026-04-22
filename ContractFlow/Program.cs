@@ -1,7 +1,6 @@
 using ContractMS.Data;
 using ContractMS.Services;
 using Microsoft.EntityFrameworkCore;
-using System;
 
 var builder = WebApplication.CreateBuilder(args);
 
