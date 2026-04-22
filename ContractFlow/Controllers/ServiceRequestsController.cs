@@ -40,7 +40,7 @@ namespace ContractMS.Controllers
         [HttpPost, ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(ServiceRequest request)
         {
-            // ── Workflow Logic: block creation if contract is Expired or OnHold ──
+            // Workflow Logic: block creation if contract is Expired or OnHold 
             var contract = await _context.Contracts.FindAsync(request.ContractId);
 
             if (contract == null)
@@ -95,7 +95,7 @@ namespace ContractMS.Controllers
         {
             if (id != request.Id) return BadRequest();
 
-            // ── Workflow Logic: block update if contract is Expired or OnHold ──
+            //Workflow Logic: block update if contract is Expired or OnHold 
             var contract = await _context.Contracts.FindAsync(request.ContractId);
             if (contract == null)
             {

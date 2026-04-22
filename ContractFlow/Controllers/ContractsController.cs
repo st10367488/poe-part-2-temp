@@ -18,7 +18,7 @@ namespace ContractMS.Controllers
             _env = env;
         }
 
-        // ── Search/Filter with LINQ (LU3 Workflow Logic requirement) ──────────────
+        // Search/Filter with LINQ (LU3 Workflow Logic requirement)
         public async Task<IActionResult> Index(
             DateTime? startDate, DateTime? endDate, ContractStatus? status)
         {
@@ -56,7 +56,7 @@ namespace ContractMS.Controllers
 
             if (ModelState.IsValid)
             {
-                // ── File Handling ────────────────────────────────────────────────
+                // File Handling
                 if (agreementFile != null && agreementFile.Length > 0)
                 {
                     if (Path.GetExtension(agreementFile.FileName).ToLower() != ".pdf")
